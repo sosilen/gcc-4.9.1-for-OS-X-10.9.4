@@ -1,0 +1,1 @@
+http://adcdownload.apple.com//Developer_Tools/xcode_6_beta_4_o2p8fz/xcode_6_beta_4.dmg

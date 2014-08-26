@@ -1,0 +1,10 @@
+prefix=/hxw/learn/IM知识/功能demo/gcc/output/gcc
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libgcj
+Description: libgcj
+Version: 4.9.1
+Libs: -L${libdir} -lgcj
+Cflags: -I${includedir}
